@@ -2,5 +2,6 @@
 
 int main() {
 	std::cout << "Hello World" << std::endl;
+	std::cout << "Let's Commit!" << std::endl;
 	return 0;
 }
